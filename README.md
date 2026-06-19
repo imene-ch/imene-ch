@@ -28,73 +28,28 @@ I'm a Master's student in **Big Data & Data Science** at Horizon School of Digit
 
 ## Tech Stack
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-
-<br/><br/>
-
-**Web**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-</td>
-<td valign="top" width="50%">
-
-**Data & Tools**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
-
-<br/><br/>
-
-**Currently Learning**
-<br/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Visualization-orange?style=flat-square" />
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
 
 <br/>
 
-## Featured Projects
+## What I've Worked On
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+✈️ **Flight Schedule Optimization** — AI-based timetable optimization tool, final year project at Nouvelair
+🅿️ **Smart Parking Sensors** — IoT sensor system for airport parking management, internship at Socoste TAV
 
-### ✈️ Flight Schedule Optimization
-**Final Year Project — Nouvelair**
-
-AI-based tool to optimize flight timetables against cost, technical, and commercial constraints, with a web interface for simulation and validation.
-
-`Python` `Optimization` `Web Interface`
-
-</td>
-<td valign="top" width="50%">
-
-### 🅿️ Smart Parking Sensors
-**Internship — Socoste TAV / Monastir Airport**
-
-IoT-based outdoor sensor system for parking management and automated billing, integrated into the airport's server infrastructure.
-
-`IoT` `Sensors` `Systems Integration`
-
-</td>
-</tr>
-</table>
+<sub>Detailed write-ups in the pinned repos below ↓</sub>
 
 <br/>
 
@@ -109,7 +64,7 @@ IoT-based outdoor sensor system for parking management and automated billing, in
 
 <div align="center">
 
-### Let's Connect
+📫 Open to opportunities and collaborations in data science and AI — feel free to reach out.
 
 <a href="https://www.linkedin.com/in/chehata-imene-59b347311">LinkedIn</a> · <a href="mailto:chehataimene9@gmail.com">Email</a>
 
