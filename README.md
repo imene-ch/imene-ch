@@ -1,82 +1,74 @@
-# `> Imene Chehata`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Deep+Learning;Building+Intelligent+Systems)
+<h1 align="center">Hi, I'm Imene Chehata 👋</h1>
+<h3 align="center">Master's Student in Big Data & Data Science | AI & Web Development</h3>
 
-</div>
-
----
-
-```python
-class Imene:
-    def __init__(self):
-        self.name       = "Imene Chehata"
-        self.status     = "Master's Student in Big Data & Data Science"
-        self.location   = "Monastir, Tunisia"
-        self.focus      = ["Machine Learning", "Deep Learning", "Optimization"]
-
-    def passions(self):
-        return [
-            "Building AI-powered systems",
-            "Flight schedule optimization with AI",
-            "Turning raw data into intelligent solutions",
-            "Exploring new ML & DL architectures",
-        ]
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/chehata-imene-59b347311">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chehataimene9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## `> tech_stack.load()`
+### About Me
+
+I'm a Master's student in **Big Data & Data Science** at Horizon School of Digital Technologies, with a background in Computer Systems Engineering (Embedded Systems & IoT). I'm passionate about data analysis and AI-driven optimization, with hands-on experience building tools that solve real operational problems — from flight schedule optimization to IoT-based sensor systems.
+
+- 🎓 Currently pursuing a Master's in Big Data & Data Science (2025 – Present)
+- 🛫 Built an AI-based flight schedule optimization tool during my final year project at **Nouvelair**
+- 🔌 Worked on IoT sensor systems for parking management at **Habib Bourguiba International Airport**
+- 🌍 Languages: Arabic (native), French (fluent), English (B2 / IELTS 5.5)
+- 📍 Based in Monastir, Tunisia
+
+---
+
+### Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F5A0)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=00F5A0)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00F5A0)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00F5A0)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00F5A0)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+</p>
 
-**AI & Data Science**
+**Web**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00F5A0)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00F5A0)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00F5A0)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00F5A0)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00F5A0)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00F5A0)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
 
-**Tools**
+**Data & Tools**
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00F5A0)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00F5A0)
-![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00F5A0)
-![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=google-colab&logoColor=00F5A0)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00F5A0)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00F5A0)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white" />
+</p>
 
 ---
 
-## `> certifications.list()`
+### Featured Projects
 
-```bash
-✔ NVIDIA Deep Learning Institute — Getting Started with Deep Learning (2025)
-✔ Imperial English UK — CEFR B2 / IELTS 5.5 (2025)
-✔ Public Speaking & Self-Confidence Training (2022)
-```
+> 🚧 Project repos coming soon — currently uploading my final-year project (flight schedule optimization) and Master's coursework.
 
----
-
-## `> contact.connect()`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5A0)](https://linkedin.com/in/chehata-imene-59b347311)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00F5A0)](mailto:chehataimene9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F5A0)](https://github.com/imene-ch)
-
-</div>
+<!--
+### 🚀 [Project Name](repo-link)
+Short one-line description of what it does and why it matters.
+-->
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=imene-ch&style=for-the-badge&color=00F5A0&label=PROFILE+VIEWS"/>
-</div>
+### Let's Connect
+
+I'm always open to discussing data science, AI, or web development projects.
+
+<p>
+  <a href="https://www.linkedin.com/in/chehata-imene-59b347311">LinkedIn</a> ·
+  <a href="mailto:chehataimene9@gmail.com">Email</a>
+</p>
