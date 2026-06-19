@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>Imene Chehata</h1>
-<h3>Master's Student in Big Data & Data Science | AI & Web Development</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Imene%20Chehata&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Master's%20Student%20in%20Big%20Data%20%26%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/chehata-imene-59b347311">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -28,18 +27,8 @@ I'm a Master's student in **Big Data & Data Science** at Horizon School of Digit
 
 ## Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,java,c,js,php,html,css,mysql,r" />
 </p>
 
 <br/>
@@ -47,18 +36,10 @@ I'm a Master's student in **Big Data & Data Science** at Horizon School of Digit
 ## What I've Worked On
 
 ✈️ **Flight Schedule Optimization** — AI-based timetable optimization tool, final year project at Nouvelair
+
 🅿️ **Smart Parking Sensors** — IoT sensor system for airport parking management, internship at Socoste TAV
 
 <sub>Detailed write-ups in the pinned repos below ↓</sub>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=imene-ch&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imene-ch&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
 
 <br/>
 
@@ -67,5 +48,9 @@ I'm a Master's student in **Big Data & Data Science** at Horizon School of Digit
 📫 Open to opportunities and collaborations in data science and AI — feel free to reach out.
 
 <a href="https://www.linkedin.com/in/chehata-imene-59b347311">LinkedIn</a> · <a href="mailto:chehataimene9@gmail.com">Email</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
