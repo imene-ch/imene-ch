@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Master's student in **Big Data & Data Science** at Horizon School of Digital Technologies, with a background in Computer Systems Engineering (Embedded Systems & IoT). I'm passionate about data analysis and AI-driven optimization, with hands-on experience building tools that solve real operational problems — from flight schedule optimization to IoT-based sensor systems.
+I'm a Master's student in **Big Data & Data Science** at Horizon School of Digital Technologies, with a background in Computer Systems Engineering (Embedded Systems & IoT). I'm passionate about data analysis and AI-driven optimization, with hands-on experience building tools that solve real operational problems  from flight schedule optimization to IoT-based sensor systems.
 
 - 🎓 Currently pursuing a Master's in Big Data & Data Science (2025 – Present)
 - 🛫 Built an AI-based flight schedule optimization tool during my final year project at **Nouvelair**
