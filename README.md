@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Imene%20Chehata&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Master's%20Student%20in%20Big%20Data%20%26%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Imene%20Chehata&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20%26%20Data%20Science%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/chehata-imene-59b347311">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
